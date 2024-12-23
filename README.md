@@ -18,7 +18,7 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:lawson.maurice8@gmail.com">
+  <a href="mailto:lawson.mauricea8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
     
@@ -29,7 +29,10 @@
   <a href="https://MauriceaLawson.github.io">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/> 
   </a>
-    
+  <a href="mailto:mauricea2014@outlook.com">
+     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> 
+  </a>
+  
 </div>
 
 ### 🛠️ Languages, Frameworks and Tools
