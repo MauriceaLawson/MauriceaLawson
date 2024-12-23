@@ -1,3 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MauriceaLawson.MauriceaLawson" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Bernard&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Mauricea+Lawson!;" />
+</h1>
+
 # 💫 Hello, I'm Mauricea!
 I am a resilient and collaborative cybersecurity enthusiast dedicated to safeguarding sensitive data and creating user-centred security solutions. With a strong commitment to continuous learning and ethical responsibility, I bring adaptability and a problem-solving mindset to address evolving cyber threats. Passionate about promoting diversity in tech, I aim to contribute to inclusive, innovative teams that align security measures with organizational goals and user needs.<br><br>Studying at Dalhousie University <br>I enjoy Reading, deep and meaningful conversations, and self growth and development<br> I am currently developing my technical skills through personal projects.<br>I love Cyber Security and want to specialize in Cyber Forensics
 
